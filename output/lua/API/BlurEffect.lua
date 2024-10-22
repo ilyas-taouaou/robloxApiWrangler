@@ -1,0 +1,1 @@
+return {Members={{Category="State",MemberType="Property",Name="Size",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Primitive",Name="float"}}},MemoryCategory="Instances",Name="BlurEffect",Superclass="PostEffect",Tags={},InstanceName="BlurEffect"}

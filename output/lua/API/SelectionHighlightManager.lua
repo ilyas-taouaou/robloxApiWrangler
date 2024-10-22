@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="SelectionHighlightManager",Superclass="Instance",Tags={"NotCreatable","Service"},InstanceName="SelectionHighlightManager"}

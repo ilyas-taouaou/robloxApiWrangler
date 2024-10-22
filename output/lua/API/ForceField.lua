@@ -1,0 +1,1 @@
+return {Members={{Category="Data",MemberType="Property",Name="Visible",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Primitive",Name="bool"}}},MemoryCategory="Instances",Name="ForceField",Superclass="Instance",Tags={},InstanceName="ForceField"}

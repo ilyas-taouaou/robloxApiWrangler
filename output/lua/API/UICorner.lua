@@ -1,0 +1,1 @@
+return {Members={{Category="Appearance",MemberType="Property",Name="CornerRadius",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="DataType",Name="UDim"}}},MemoryCategory="Instances",Name="UICorner",Superclass="UIComponent",Tags={},InstanceName="UICorner"}

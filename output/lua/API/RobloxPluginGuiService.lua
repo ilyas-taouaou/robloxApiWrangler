@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="RobloxPluginGuiService",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="RobloxPluginGuiService"}

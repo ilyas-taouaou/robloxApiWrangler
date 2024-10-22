@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="RobloxServerStorage",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="RobloxServerStorage"}

@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="HandlesBase",Superclass="PartAdornment",Tags={"NotCreatable"},InstanceName="HandlesBase"}

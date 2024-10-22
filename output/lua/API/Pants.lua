@@ -1,0 +1,1 @@
+return {Members={{Category="Appearance",MemberType="Property",Name="PantsTemplate",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="DataType",Name="Content"}}},MemoryCategory="Instances",Name="Pants",Superclass="Clothing",Tags={},InstanceName="Pants"}

@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="CharacterAppearance",Superclass="Instance",Tags={"NotCreatable"},InstanceName="CharacterAppearance"}

@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="IntersectOperation",Superclass="PartOperation",Tags={},InstanceName="IntersectOperation"}

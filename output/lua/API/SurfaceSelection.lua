@@ -1,0 +1,1 @@
+return {Members={{Category="Data",MemberType="Property",Name="TargetSurface",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Enum",Name="NormalId"}}},MemoryCategory="Instances",Name="SurfaceSelection",Superclass="PartAdornment",Tags={},InstanceName="SurfaceSelection"}

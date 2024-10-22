@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="TouchTransmitter",Superclass="Instance",Tags={"NotCreatable","NotBrowsable"},InstanceName="TouchTransmitter"}

@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="ScriptCloneWatcherHelper",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="ScriptCloneWatcherHelper"}

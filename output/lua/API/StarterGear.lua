@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="StarterGear",Superclass="Instance",Tags={},InstanceName="StarterGear"}

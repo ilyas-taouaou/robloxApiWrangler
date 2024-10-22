@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="PlayerMouse",Superclass="Mouse",Tags={"NotCreatable"},InstanceName="PlayerMouse"}

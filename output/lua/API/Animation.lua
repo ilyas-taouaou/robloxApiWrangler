@@ -1,0 +1,1 @@
+return {Members={{Category="Data",MemberType="Property",Name="AnimationId",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="DataType",Name="Content"}}},MemoryCategory="Animation",Name="Animation",Superclass="Instance",Tags={},InstanceName="Animation"}

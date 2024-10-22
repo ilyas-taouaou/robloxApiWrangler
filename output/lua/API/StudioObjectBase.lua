@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="StudioObjectBase",Superclass="Instance",Tags={},InstanceName="StudioObjectBase"}

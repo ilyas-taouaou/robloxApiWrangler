@@ -1,0 +1,1 @@
+return {Members={{Category="Data",MemberType="Property",Name="Manifest",Security={Read="RobloxScriptSecurity",Write="RobloxScriptSecurity"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Primitive",Name="string"}}},MemoryCategory="Instances",Name="PluginCapabilities",Superclass="Instance",Tags={},InstanceName="PluginCapabilities"}

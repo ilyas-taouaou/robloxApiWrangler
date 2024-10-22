@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="CurveAnimation",Superclass="AnimationClip",Tags={},InstanceName="CurveAnimation"}

@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="PhysicsParts",Name="RigidConstraint",Superclass="Constraint",Tags={},InstanceName="RigidConstraint"}

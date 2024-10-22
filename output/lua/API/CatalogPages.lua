@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="CatalogPages",Superclass="Pages",Tags={"NotCreatable","NotReplicated"},InstanceName="CatalogPages"}

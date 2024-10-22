@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="FacialAnimationStreamingSubsessionStats",Superclass="Instance",Tags={"NotCreatable","NotReplicated"},InstanceName="FacialAnimationStreamingSubsessionStats"}

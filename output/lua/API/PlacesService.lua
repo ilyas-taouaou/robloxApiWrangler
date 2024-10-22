@@ -1,0 +1,1 @@
+return {Members={{MemberType="Function",Name="StartPlaySolo",Parameters={},ReturnType={Category="Primitive",Name="null"},Security="RobloxScriptSecurity",ThreadSafety="Unsafe"}},MemoryCategory="Instances",Name="PlacesService",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="PlacesService"}

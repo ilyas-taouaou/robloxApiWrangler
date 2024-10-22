@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="ServerReplicator",Superclass="NetworkReplicator",Tags={"NotCreatable","NotReplicated"},InstanceName="ServerReplicator"}

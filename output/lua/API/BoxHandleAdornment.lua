@@ -1,0 +1,1 @@
+return {Members={{Category="Data",MemberType="Property",Name="Size",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="DataType",Name="Vector3"}}},MemoryCategory="Instances",Name="BoxHandleAdornment",Superclass="HandleAdornment",Tags={},InstanceName="BoxHandleAdornment"}

@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="PluginDebugService",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="PluginDebugService"}

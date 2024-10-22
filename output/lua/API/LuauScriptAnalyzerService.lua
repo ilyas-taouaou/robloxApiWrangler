@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="LuauScriptAnalyzerService",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="LuauScriptAnalyzerService"}

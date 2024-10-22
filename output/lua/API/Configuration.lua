@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="Configuration",Superclass="Instance",Tags={},InstanceName="Configuration"}

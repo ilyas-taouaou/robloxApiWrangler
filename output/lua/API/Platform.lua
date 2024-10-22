@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="PhysicsParts",Name="Platform",Superclass="Part",Tags={"NotCreatable"},InstanceName="Platform"}

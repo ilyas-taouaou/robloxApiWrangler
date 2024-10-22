@@ -1,0 +1,1 @@
+return {Members={{Category="State",MemberType="Property",Name="Volume",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Primitive",Name="float"}}},MemoryCategory="Internal",Name="SoundGroup",Superclass="Instance",Tags={},InstanceName="SoundGroup"}

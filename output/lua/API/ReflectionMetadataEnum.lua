@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="ReflectionMetadataEnum",Superclass="ReflectionMetadataItem",Tags={},InstanceName="ReflectionMetadataEnum"}

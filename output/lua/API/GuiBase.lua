@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="GuiBase",Superclass="Instance",Tags={"NotCreatable"},InstanceName="GuiBase"}

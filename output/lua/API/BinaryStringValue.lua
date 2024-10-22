@@ -1,0 +1,1 @@
+return {Members={{MemberType="Event",Name="Changed",Parameters={{Name="value",Type={Category="DataType",Name="BinaryString"}}},Security="None",ThreadSafety="Unsafe"}},MemoryCategory="Instances",Name="BinaryStringValue",Superclass="ValueBase",Tags={},InstanceName="BinaryStringValue"}

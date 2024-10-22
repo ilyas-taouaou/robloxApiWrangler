@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="TemporaryCageMeshProvider",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="TemporaryCageMeshProvider"}

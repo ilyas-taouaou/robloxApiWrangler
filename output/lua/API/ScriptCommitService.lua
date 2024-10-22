@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="ScriptCommitService",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="ScriptCommitService"}

@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="WedgePart",Superclass="FormFactorPart",Tags={},InstanceName="WedgePart"}

@@ -1,0 +1,1 @@
+return {Members={{Category="State",MemberType="Property",Name="Enabled",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Primitive",Name="bool"}}},MemoryCategory="Instances",Name="PostEffect",Superclass="Instance",Tags={"NotCreatable"},InstanceName="PostEffect"}

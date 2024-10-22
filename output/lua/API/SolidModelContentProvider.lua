@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="SolidModelContentProvider",Superclass="CacheableContentProvider",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="SolidModelContentProvider"}

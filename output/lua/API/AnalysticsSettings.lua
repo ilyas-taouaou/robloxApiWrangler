@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="AnalysticsSettings",Superclass="GenericSettings",Tags={"NotCreatable"},InstanceName="AnalysticsSettings"}

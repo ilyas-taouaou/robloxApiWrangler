@@ -1,0 +1,1 @@
+return {Members={{Category="Data",MemberType="Property",Name="Value",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Primitive",Name="double"}}},MemoryCategory="Animation",Name="NumberPose",Superclass="PoseBase",Tags={},InstanceName="NumberPose"}

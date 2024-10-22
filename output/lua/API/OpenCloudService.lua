@@ -1,0 +1,1 @@
+return {Members={{MemberType="Function",Name="GetApiV1",Parameters={},ReturnType={Category="Class",Name="OpenCloudApiV1"},Security="None",ThreadSafety="Unsafe"}},MemoryCategory="Instances",Name="OpenCloudService",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="OpenCloudService"}

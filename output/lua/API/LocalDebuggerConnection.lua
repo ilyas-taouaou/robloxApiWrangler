@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="LocalDebuggerConnection",Superclass="DebuggerConnection",Tags={"NotCreatable","NotReplicated"},InstanceName="LocalDebuggerConnection"}

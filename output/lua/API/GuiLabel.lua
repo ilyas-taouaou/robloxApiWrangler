@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Gui",Name="GuiLabel",Superclass="GuiObject",Tags={"NotCreatable"},InstanceName="GuiLabel"}

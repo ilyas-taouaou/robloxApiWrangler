@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="PatchBundlerFileWatch",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="PatchBundlerFileWatch"}

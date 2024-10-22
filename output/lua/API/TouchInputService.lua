@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="TouchInputService",Superclass="Instance",Tags={"NotCreatable","Service"},InstanceName="TouchInputService"}

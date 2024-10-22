@@ -1,0 +1,1 @@
+return {Members={{Category="Data",MemberType="Property",Name="Pitch",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Primitive",Name="float"}}},MemoryCategory="Instances",Name="AudioPitchShifter",Superclass="Instance",Tags={"NotBrowsable"},InstanceName="AudioPitchShifter"}

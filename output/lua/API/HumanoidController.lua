@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="HumanoidController",Superclass="Controller",Tags={},InstanceName="HumanoidController"}

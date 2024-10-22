@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="GoogleAnalyticsConfiguration",Superclass="Instance",Tags={"NotCreatable","Service"},InstanceName="GoogleAnalyticsConfiguration"}

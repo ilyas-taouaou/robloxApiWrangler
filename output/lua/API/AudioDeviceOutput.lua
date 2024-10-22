@@ -1,0 +1,1 @@
+return {Members={{Category="Data",MemberType="Property",Name="Player",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Class",Name="Player"}}},MemoryCategory="Instances",Name="AudioDeviceOutput",Superclass="Instance",Tags={"NotBrowsable"},InstanceName="AudioDeviceOutput"}

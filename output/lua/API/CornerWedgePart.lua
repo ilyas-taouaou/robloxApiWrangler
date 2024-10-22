@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="CornerWedgePart",Superclass="BasePart",Tags={},InstanceName="CornerWedgePart"}

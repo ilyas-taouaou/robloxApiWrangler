@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="QWidgetPluginGui",Superclass="PluginGui",Tags={"NotCreatable","NotReplicated"},InstanceName="QWidgetPluginGui"}

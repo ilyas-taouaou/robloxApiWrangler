@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="StarterPlayerScripts",Superclass="Instance",Tags={"NotCreatable"},InstanceName="StarterPlayerScripts"}

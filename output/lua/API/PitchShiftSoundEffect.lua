@@ -1,0 +1,1 @@
+return {Members={{Category="State",MemberType="Property",Name="Octave",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Primitive",Name="float"}}},MemoryCategory="Instances",Name="PitchShiftSoundEffect",Superclass="SoundEffect",Tags={},InstanceName="PitchShiftSoundEffect"}

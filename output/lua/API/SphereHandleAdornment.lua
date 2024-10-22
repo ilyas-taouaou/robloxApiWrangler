@@ -1,0 +1,1 @@
+return {Members={{Category="Data",MemberType="Property",Name="Radius",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Primitive",Name="float"}}},MemoryCategory="Instances",Name="SphereHandleAdornment",Superclass="HandleAdornment",Tags={},InstanceName="SphereHandleAdornment"}

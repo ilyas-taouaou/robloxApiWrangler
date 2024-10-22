@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="VisibilityCheckDispatcher",Superclass="Instance",Tags={"NotCreatable","Service"},InstanceName="VisibilityCheckDispatcher"}

@@ -1,0 +1,1 @@
+return {Members={{Category="Appearance",MemberType="Property",Name="Range",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Primitive",Name="float"}}},MemoryCategory="Instances",Name="PointLight",Superclass="Light",Tags={},InstanceName="PointLight"}

@@ -1,0 +1,1 @@
+return {Members={{MemberType="Function",Name="EndRemoteRomarkTest",Parameters={},ReturnType={Category="Primitive",Name="null"},Security="RobloxScriptSecurity",ThreadSafety="Unsafe"}},MemoryCategory="Instances",Name="RomarkService",Superclass="Instance",Tags={"NotCreatable","Service"},InstanceName="RomarkService"}

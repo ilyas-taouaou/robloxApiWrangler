@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="StudioScriptDebugEventListener",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="StudioScriptDebugEventListener"}

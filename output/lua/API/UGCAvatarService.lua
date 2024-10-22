@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="UGCAvatarService",Superclass="Instance",Tags={"NotCreatable","Service"},InstanceName="UGCAvatarService"}

@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="RunningAverageItemDouble",Superclass="StatsItem",Tags={"NotCreatable"},InstanceName="RunningAverageItemDouble"}

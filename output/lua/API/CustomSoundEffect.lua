@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="CustomSoundEffect",Superclass="SoundEffect",Tags={"NotCreatable"},InstanceName="CustomSoundEffect"}

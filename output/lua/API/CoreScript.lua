@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Script",Name="CoreScript",Superclass="BaseScript",Tags={"NotCreatable","NotReplicated"},InstanceName="CoreScript"}

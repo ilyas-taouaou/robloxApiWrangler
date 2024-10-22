@@ -1,0 +1,1 @@
+return {Members={{MemberType="Function",Name="SetOutgoingKBPSLimit",Parameters={{Name="limit",Type={Category="Primitive",Name="int"}}},ReturnType={Category="Primitive",Name="null"},Security="PluginSecurity",ThreadSafety="Unsafe"}},MemoryCategory="Instances",Name="NetworkPeer",Superclass="Instance",Tags={"NotCreatable","NotBrowsable"},InstanceName="NetworkPeer"}

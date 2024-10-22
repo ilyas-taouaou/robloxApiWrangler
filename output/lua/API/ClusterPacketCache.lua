@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="ClusterPacketCache",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="ClusterPacketCache"}

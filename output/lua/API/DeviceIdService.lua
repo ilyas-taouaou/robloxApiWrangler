@@ -1,0 +1,1 @@
+return {Members={{MemberType="Function",Name="GetDeviceId",Parameters={},ReturnType={Category="Primitive",Name="string"},Security="RobloxScriptSecurity",ThreadSafety="Unsafe"}},MemoryCategory="Instances",Name="DeviceIdService",Superclass="Instance",Tags={"NotCreatable","Service","NotReplicated"},InstanceName="DeviceIdService"}

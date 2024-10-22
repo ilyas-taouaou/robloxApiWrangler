@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="LuaSettings",Superclass="Instance",Tags={"NotCreatable","Settings"},InstanceName="LuaSettings"}

@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="ILegacyStudioBridge",Superclass="Instance",Tags={"NotCreatable","Service"},InstanceName="ILegacyStudioBridge"}

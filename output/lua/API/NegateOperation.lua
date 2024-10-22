@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="NegateOperation",Superclass="PartOperation",Tags={},InstanceName="NegateOperation"}

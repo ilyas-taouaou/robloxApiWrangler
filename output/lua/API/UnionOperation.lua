@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="UnionOperation",Superclass="PartOperation",Tags={},InstanceName="UnionOperation"}

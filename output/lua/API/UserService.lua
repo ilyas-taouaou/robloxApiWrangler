@@ -1,0 +1,1 @@
+return {Members={{MemberType="Function",Name="GetUserInfosByUserIdsAsync",Parameters={{Name="userIds",Type={Category="Group",Name="Array"}}},ReturnType={Category="Group",Name="Array"},Security="None",Tags={"Yields"},ThreadSafety="Unsafe"}},MemoryCategory="Instances",Name="UserService",Superclass="Instance",Tags={"NotCreatable","Service"},InstanceName="UserService"}

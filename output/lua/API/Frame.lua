@@ -1,0 +1,1 @@
+return {Members={{Category="Data",MemberType="Property",Name="Style",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Enum",Name="FrameStyle"}}},MemoryCategory="Gui",Name="Frame",Superclass="GuiObject",Tags={},InstanceName="Frame"}

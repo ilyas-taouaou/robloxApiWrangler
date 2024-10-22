@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="UIBase",Superclass="Instance",Tags={"NotCreatable"},InstanceName="UIBase"}

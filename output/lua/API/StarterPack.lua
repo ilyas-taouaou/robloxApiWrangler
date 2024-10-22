@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="StarterPack",Superclass="Instance",Tags={"NotCreatable","Service"},InstanceName="StarterPack"}

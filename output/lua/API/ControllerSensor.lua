@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="ControllerSensor",Superclass="SensorBase",Tags={"NotCreatable"},InstanceName="ControllerSensor"}

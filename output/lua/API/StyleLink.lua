@@ -1,0 +1,1 @@
+return {Members={{Category="Data",MemberType="Property",Name="StyleSheet",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=true},ThreadSafety="ReadSafe",ValueType={Category="Class",Name="StyleSheet"}}},MemoryCategory="Gui",Name="StyleLink",Superclass="Instance",Tags={},InstanceName="StyleLink"}

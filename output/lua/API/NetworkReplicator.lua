@@ -1,0 +1,1 @@
+return {Members={{MemberType="Function",Name="GetPlayer",Parameters={},ReturnType={Category="Class",Name="Instance"},Security="None",ThreadSafety="Unsafe"}},MemoryCategory="Instances",Name="NetworkReplicator",Superclass="Instance",Tags={"NotCreatable","NotReplicated"},InstanceName="NetworkReplicator"}

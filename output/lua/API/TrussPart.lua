@@ -1,0 +1,1 @@
+return {Members={{Category="Part",MemberType="Property",Name="Style",Security={Read="None",Write="None"},Serialization={CanLoad=true,CanSave=false},Tags={"NotReplicated"},ThreadSafety="ReadSafe",ValueType={Category="Enum",Name="Style"}}},MemoryCategory="Instances",Name="TrussPart",Superclass="BasePart",Tags={},InstanceName="TrussPart"}

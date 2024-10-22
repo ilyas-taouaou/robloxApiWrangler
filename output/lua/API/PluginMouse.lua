@@ -1,0 +1,1 @@
+return {Members={{MemberType="Event",Name="DragEnter",Parameters={{Name="instances",Type={Category="DataType",Name="Objects"}}},Security="PluginSecurity",ThreadSafety="Unsafe"}},MemoryCategory="Instances",Name="PluginMouse",Superclass="Mouse",Tags={"NotCreatable"},InstanceName="PluginMouse"}

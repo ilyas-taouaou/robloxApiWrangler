@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Animation",Name="TrackerStreamAnimation",Superclass="Instance",Tags={"NotReplicated"},InstanceName="TrackerStreamAnimation"}

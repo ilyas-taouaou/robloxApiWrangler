@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="FacsImportData",Superclass="BaseImportData",Tags={"NotCreatable","NotReplicated"},InstanceName="FacsImportData"}

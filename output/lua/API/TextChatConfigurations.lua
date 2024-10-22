@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="TextChatConfigurations",Superclass="Instance",Tags={"NotCreatable","NotReplicated"},InstanceName="TextChatConfigurations"}

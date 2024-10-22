@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="CloudLocalizationTable",Superclass="LocalizationTable",Tags={"NotCreatable","NotReplicated"},InstanceName="CloudLocalizationTable"}

@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="ProcessInstancePhysicsService",Superclass="Instance",Tags={"NotCreatable","Service"},InstanceName="ProcessInstancePhysicsService"}

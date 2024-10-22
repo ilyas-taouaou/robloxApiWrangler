@@ -1,0 +1,1 @@
+return {Members={},MemoryCategory="Instances",Name="TotalCountTimeIntervalItem",Superclass="StatsItem",Tags={"NotCreatable"},InstanceName="TotalCountTimeIntervalItem"}
